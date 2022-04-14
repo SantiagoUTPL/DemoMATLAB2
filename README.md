@@ -3,4 +3,4 @@
 # Introduccion
 ## CLASE NRO 1
 ### NOMBRE : Santiago Calderon
-![](./img/carro.png)
+![](./IMG/carro.png)
