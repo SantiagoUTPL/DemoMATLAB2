@@ -1,2 +1,5 @@
-# DemoMATLAB2
- Esto es un demo
+# MATLAB BASICO 
+
+# Introduccion
+## CLASE NRO 1
+### NOMBRE : Santiago Calderon
